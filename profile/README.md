@@ -4,5 +4,7 @@ Welcome to NS Net Source Sagl, your dedicated partner in digital innovation. We 
 
 
 
-Let’s build a smarter, faster future together! [Learn more](https://nsource.framer.website/)
+Let’s build a smarter, faster future together!
+
+[![wakatime](https://wakatime.com/badge/user/018b5c7c-fde2-4105-aa96-f5c758abb0a2/project/9847dd04-40ec-41b3-8395-46695c73af0c.svg)](https://wakatime.com/badge/user/018b5c7c-fde2-4105-aa96-f5c758abb0a2/project/9847dd04-40ec-41b3-8395-46695c73af0c)
 
